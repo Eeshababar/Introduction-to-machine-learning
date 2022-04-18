@@ -1,0 +1,1 @@
+# Introduction-to-machine-learning This repositry contains all the code assighments of UCI COMPSCI 171 course, the work done for project of rain fall prediction and for the project of multiclass classification or red wine.
